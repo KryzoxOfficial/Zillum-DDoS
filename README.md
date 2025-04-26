@@ -15,6 +15,10 @@
 </p>
 
 ---
+![Screenshot](https://github.com/KryzoxOfficial/Zillum-DDoS/blob/main/Screenshot.png?raw=true)
+
+
+
 
 ⚡ Features — Death by Packets
 
