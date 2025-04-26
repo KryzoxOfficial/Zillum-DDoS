@@ -1,9 +1,9 @@
 
 ---
 
-            🚀 Kryzox Injected — HTTP Flood Armageddon 🔥😈
+🚀 Kryzox Injected — HTTP Flood Armageddon 🔥😈
 
-          "Injecting silence... one lethal packet at a time."
+ "Injecting silence... one lethal packet at a time."
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge" />
