@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 </p>
 
-<h1 align="center">⚔️ K_DDOS - Advanced HTTP DDoS Tool</h1>
+<h1 align="center">⚔️ # Zillum-DDoS - Advanced HTTP DDoS Tool</h1>
 
 <p align="center">
   A lightweight yet powerful Python-based HTTP flooder with real-time proxy handling, live status graphing, and fast configuration for stress testing and cybersecurity research.<br>
