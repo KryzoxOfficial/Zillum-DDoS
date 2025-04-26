@@ -61,9 +61,11 @@ sudo apt install python3 python3-pip -y
 
 # Step 3: Clone Kryzox Injected Repository
 git clone https://github.com/KryzoxOfficial/Zillum-DDoS.git
+
+# Step 4: Enter the Directory
 cd Zillum-DDoS
 
-# Step 4: Install Required Python Modules
+# Step 5: Install Required Python Modules
 pip3 install -r requirements.txt
 
 
