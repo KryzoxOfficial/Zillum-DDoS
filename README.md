@@ -1,15 +1,19 @@
 
 ---
 
-🚀 Kryzox Injected — HTTP Flood Armageddon 🔥😈
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Kali%20Linux-black?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+</p>
 
- "Injecting silence... one lethal packet at a time."
+<h1 align="center">⚔️ K_DDOS - Advanced HTTP DDoS Tool</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-Linux-important?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+  A lightweight yet powerful Python-based HTTP flooder with real-time proxy handling, live status graphing, and fast configuration for stress testing and cybersecurity research.<br>
+  <strong>Use strictly for legal and educational purposes only.</strong>
 </p>
+
 ---
 
 ⚡ Features — Death by Packets
