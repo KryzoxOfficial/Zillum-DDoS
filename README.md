@@ -1,107 +1,100 @@
----
+🚀 Kryzox Injected — HTTP Flood Armageddon 🔥😈
+"Injecting silence... one lethal packet at a time."
 
-# Kryzox Injected — HTTP Flood Tool 🔥😈
+⚡ [FEATURES] - Death by Packets
+🔥 Multi-threaded HTTP Flood Engine
 
+🎭 Automatic Proxy Rotation & Speed Checker
 
----
+🌀 Random Path Fuzzer (/admin, /login, /secret)
 
-## [!] Features
+🎯 Randomized User-Agents & Referers
 
-- [x] Multi-threaded HTTP Flooding
-- [x] Proxy Rotation + Speed Checker
-- [x] Random Path Fuzzing (e.g., `/admin`, `/login`, `/secret`)
-- [x] Randomized User-Agents & Referers
-- [x] Real-time Target Response Monitor
-- [x] Clean Exit with Stats
-- [x] Works with both IP and URL
+📡 Real-time Target Response Monitoring
 
----
+🧹 Graceful Exit with Detailed Stats
 
-## [⚙️] Requirements
+🌐 Supports IPs, Domains, TLDs (.com, .pk, etc.)
 
-- Python 3.7+
-- Kali Linux
-- Modules:
+⚙️ [REQUIREMENTS] - What You Need
+🐍 Python 3.7+
 
-```bash
+🛡️ Kali Linux / Parrot OS / Any Linux
+
+📦 Modules:
+
+bash
+Copy
+Edit
 pip install requests colorama
+🛠️ [INSTALLATION] - Weapon Setup
+1. Update Linux Packages
 
-
----
-
-[🚀] Installation (on Kali Linux)
-
-1. Update Kali Linux Packages:
-
-
-
+bash
+Copy
+Edit
 sudo apt update && sudo apt upgrade -y
+2. Install Python 3 & Pip
 
-2. Install Python 3 & Pip:
-
-
-
+bash
+Copy
+Edit
 sudo apt install python3 python3-pip -y
+3. Clone the Death Machine
 
-3. Clone the Repository:
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/Kryzox-Injected.git
+cd Kryzox-Injected
+4. Install Required Modules
 
-
-
-git clone https://github.com/yourusername/Zillum-DDoS.git
-cd Zillum-DDoS
-
-4. Install Required Python Modules:
-
-
-
+bash
+Copy
+Edit
 pip3 install -r requirements.txt
-
-
----
-
-[🚀] Launch Commander 
+🚀 [COMMAND CENTER] - Launch the Beast
+bash
+Copy
+Edit
 python3 k_ddos.py
+When it asks:
 
-Then enter:
+🌐 Target URL/IP ➔ http://example.com
 
-Target URL/IP: http://example.com
-Port: 80
-Duration (in seconds): 60
-Threads: 200
+🔥 Port ➔ 80
 
+⏳ Duration (sec) ➔ 60
 
----
+🚀 Threads ➔ 200
 
-[🧠] How It Works
+⚡ Then sit back... and unleash mayhem!
 
-Kryzox Injected doesn't play nice.
+🧠 [UNDER THE HOOD] - How Kryzox Injected Works
+🚀 Massive HTTP flood with proxy switching.
 
-Generates real HTTP flood traffic via proxies.
+🎯 Dynamic headers/referrers to break security layers.
 
-Rotates headers and referrers to bypass filters.
+🌀 Random path attacks to create maximum confusion.
 
-Custom thread engine to max out your CPU.
+⚡ Custom thread engine — turns CPUs into packet cannons.
 
-Throws randomized endpoints to confuse the server.
+📈 Real-time response tracking — monitor server health.
 
+⚠️ [DISCLAIMER] - Read Before You Bleed
+This tool is built for:
 
+Ethical Hacking 🧠
 
----
+Stress Testing 🔥
 
-[⚠️] Disclaimer
+Education 📚
 
-> This is a weapon.
-Built for ethical stress-testing, learning, and simulation only.
+⚠️ WARNING:
+❌ We are NOT responsible for misuse.
+✅ Always test on your own servers or with permission.
 
+🔥 [CREDITS] - Forged By Darkness
+Created by: KryzoxOfficial
 
-
-We take no responsibility for misuse.
-Use it on your own servers or with proper permission.
-
-
----
-
-[🔥] Created By: Kryzox
-
-> "Injecting silence...
-One packet at a time."
+"Zillum Injected Chaos: The silence after the storm..."
