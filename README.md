@@ -47,8 +47,8 @@ sudo apt install python3 python3-pip -y
 
 
 
-git clone https://github.com/yourusername/kryzox.git
-cd kryzox
+git clone https://github.com/yourusername/Zillum-DDoS.git
+cd Zillum-DDoS
 
 4. Install Required Python Modules:
 
@@ -59,9 +59,8 @@ pip3 install -r requirements.txt
 
 ---
 
-[🚀] Launch Command
-
-python3 kryzox.py
+[🚀] Launch Commander 
+python3 k_ddos.py
 
 Then enter:
 
