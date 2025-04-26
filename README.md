@@ -53,21 +53,17 @@ pip install requests colorama
 
 🛠 Installation — Setting Up the Beast
 
-Step 1: Update Linux Packages
-
+# Step 1: Update Linux Packages
 sudo apt update && sudo apt upgrade -y
 
-Step 2: Install Python 3 and Pip
-
+# Step 2: Install Python 3 and Pip
 sudo apt install python3 python3-pip -y
 
-Step 3: Clone Kryzox Injected
-
+# Step 3: Clone Kryzox Injected Repository
 git clone https://github.com/KryzoxOfficial/Zillum-DDoS.git
 cd Zillum-DDoS
 
-Step 4: Install Required Python Modules
-
+# Step 4: Install Required Python Modules
 pip3 install -r requirements.txt
 
 
