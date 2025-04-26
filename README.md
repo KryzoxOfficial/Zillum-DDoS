@@ -2,16 +2,6 @@
 
 # Kryzox Injected — HTTP Flood Tool 🔥😈
 
-![dark-banner](https://i.imgur.com/ksg8gXl.png)
-
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/Version-1.0-red.svg)](https://github.com/yourusername/kryzox)
-
-> _"They thought their servers were safe... Until Kryzox knocked."_  
-> A deadly DDoS script built for power, speed, and precision.
-
-![terminal-animation](https://i.imgur.com/XzMZ8Pv.gif)
 
 ---
 
