@@ -180,13 +180,15 @@ Only use this on servers you own or have explicit permission to test.
 
 ---
 
-🔥 Credits
-
-Created by: KryzoxOfficial
-
+## 🔥 Credits
+- *Created by:* [KryzoxOfficial](https://github.com/KryzoxOfficial)
 
 > "Zillum Injected Chaos: The silence after the storm..."
 
+---
+
+## ⚖ License
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/KryzoxOfficial/Zillum-DDoS/blob/main/LICENSE)
 
 
 
