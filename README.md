@@ -1,8 +1,9 @@
 
 ---
+
 🚀 Kryzox Injected — HTTP Flood Armageddon 🔥😈
+
 "Injecting silence... one lethal packet at a time."
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge" />
@@ -10,7 +11,6 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 ---
-
 ⚡ Features — Death by Packets
 
 Multi-threaded HTTP Flood Engine
@@ -27,10 +27,7 @@ Graceful Exit with Detailed Attack Stats
 
 Supports IPs, Domains, and TLDs (.com, .pk, etc.)
 
-
-
 ---
-
 ⚙ Requirements — What You Need
 
 Python 3.7+
@@ -44,7 +41,6 @@ pip install requests colorama
 
 
 ---
-
 🛠 Installation — Setting Up the Beast
 
 # Step 1: Update Linux Packages
@@ -64,7 +60,6 @@ pip3 install -r requirements.txt
 
 
 ---
-
 🧩 Setting Up a Virtual Environment (Recommended)
 
 Why Use a Virtual Environment?
@@ -91,7 +86,6 @@ pip install -r requirements.txt
 
 
 ---
-
 ❗ Common Errors & Fixes
 
 Issue: Permission denied Error
@@ -111,7 +105,6 @@ pip install --user -r requirements.txt
 
 
 ---
-
 🚀 Usage — Launch the Attack
 
 Run the following command:
@@ -135,7 +128,6 @@ When prompted, enter the details:
 
 
 ---
-
 🧠 How It Works — Under the Hood
 
 Massive HTTP flood with dynamic proxy rotation.
@@ -151,7 +143,6 @@ Real-time server response tracking to monitor server health during the attack.
 
 
 ---
-
 ⚠ Disclaimer — Read Before You Bleed
 
 This tool is intended for:
@@ -171,14 +162,12 @@ Only use this on servers you own or have explicit permission to test.
 
 
 ---
-
 ## 🔥 Credits
 - *Created by:* [KryzoxOfficial](https://github.com/KryzoxOfficial)
 
 > "Zillum Injected Chaos: The silence after the storm..."
 
 ---
-
 ## ⚖ License
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/KryzoxOfficial/Zillum-DDoS/blob/main/LICENSE)
 
