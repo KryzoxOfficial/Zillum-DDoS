@@ -1,3 +1,6 @@
+
+
+
 ---
 
 🚀 Kryzox Injected — HTTP Flood Armageddon 🔥😈
@@ -5,6 +8,13 @@
 "Injecting silence... one lethal packet at a time."
 
 
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Linux-important?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+</p>
 ---
 
 ⚡ Features — Death by Packets
@@ -33,7 +43,7 @@ Python 3.7+
 
 Operating System: Kali Linux / Parrot OS / Any Linux Distro
 
-Python Modules:
+Required Python Modules:
 
 pip install requests colorama
 
@@ -43,25 +53,67 @@ pip install requests colorama
 
 🛠 Installation — Setting Up the Beast
 
-1. Update your Linux packages:
+Step 1: Update Linux Packages
 
 sudo apt update && sudo apt upgrade -y
 
-
-2. Install Python 3 and Pip:
+Step 2: Install Python 3 and Pip
 
 sudo apt install python3 python3-pip -y
 
-
-3. Clone Kryzox Injected:
+Step 3: Clone Kryzox Injected
 
 git clone https://github.com/KryzoxOfficial/Zillum-DDoS.git
 cd Zillum-DDoS
 
-
-4. Install required Python modules:
+Step 4: Install Required Python Modules
 
 pip3 install -r requirements.txt
+
+
+---
+
+🧩 Setting Up a Virtual Environment (Recommended)
+
+Why Use a Virtual Environment?
+
+Using a virtual environment (venv) isolates your dependencies and prevents any permission or conflict issues.
+
+Step 1: Create a Virtual Environment
+
+python3 -m venv venv
+
+Step 2: Activate the Virtual Environment
+
+source venv/bin/activate
+
+> On Windows:
+
+.\venv\Scripts\activate
+
+
+
+Step 3: Install Dependencies Inside Virtual Environment
+
+pip install -r requirements.txt
+
+
+---
+
+❗ Common Errors & Fixes
+
+Issue: Permission denied Error
+
+Cause: Trying to install modules globally without appropriate permissions.
+
+Solution:
+
+1. Using Virtual Environment (Recommended), or
+
+
+2. Install locally:
+
+pip install --user -r requirements.txt
 
 
 
@@ -74,7 +126,7 @@ Run the following command:
 
 python3 k_ddos.py
 
-When prompted, enter:
+When prompted, enter the details:
 
 🌐 Target URL/IP: http://example.com
 
@@ -96,13 +148,13 @@ When prompted, enter:
 
 Massive HTTP flood with dynamic proxy rotation.
 
-Randomized headers and referrers to evade WAFs.
+Randomized headers and referrers to bypass Web Application Firewalls (WAFs).
 
 Random path fuzzing to confuse firewalls.
 
-Custom multi-thread engine for max CPU utilization.
+Custom multi-thread engine to maximize CPU utilization.
 
-Live server response tracking for real-time attack monitoring.
+Real-time server response tracking to monitor server health during the attack.
 
 
 
@@ -116,12 +168,12 @@ Ethical Hacking
 
 Server Stress Testing
 
-Educational Purposes
+Educational Purposes Only
 
 
 > WARNING:
-We are NOT responsible for misuse.
-Only use on servers you own or have explicit permission to test.
+We are NOT responsible for any misuse.
+Only use this on servers you own or have explicit permission to test.
 
 
 
@@ -139,3 +191,4 @@ Created by: KryzoxOfficial
 
 
 ---
+
